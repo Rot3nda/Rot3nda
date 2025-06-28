@@ -5,7 +5,7 @@
 🌱 Learning: AI, Machine Learning, and Data Engineering  
 ⚙️ Tools I use: JavaScript, React, Node.js, Python, SQL, C++, Qt  
 📍 Based in South Africa  
-📫 Contact: rotendaramugondo@yahoo.com / rotendaramugondo@gmail.com
+📫 Contact: rotenda.ra@yahoo.com / rotenda.ra@gmail.com
 
 ---
 
