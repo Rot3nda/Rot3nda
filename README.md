@@ -43,7 +43,7 @@ AI-powered web app built using Flask and DeepFace to recognize celebrity faces f
 ## 🛠 Tech Stack
 
 Frontend:   HTML | CSS | JavaScript | React
-Backend:    Node.js | Express | Flask
+Backend:    Node.js | Express | Django
 Database:   MySQL | MongoDB
 Languages:  Python | JavaScript | C++ (Qt)
 Tools:      Git | GitHub | Postman | VS Code
