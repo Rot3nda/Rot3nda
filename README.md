@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Rotenda Ramugondo
 
-### 💻 Final-Year Computer Science Student | Aspiring Software Engineer & AI Developer  
+### 💻 Final-Year Computer Science Student | Aspiring Software Engineer/ Data Engineer
 
-🔭 Currently working on: Full Stack Web Apps (React + Django + PosgresSQL)  
+🔭 Currently working on: Full Stack Web Apps (React + Asp.Net Core+ MySQL)  
 
 🌱 Learning: Software Engineering  & Data Engineering 
 
@@ -27,19 +27,9 @@ A full-stack web application using HTML, CSS, React, Node.js, and MongoDB with u
 
 ---
 
-### 🤖 Celebrity Face Recognition System  
-AI-powered web app built using Flask and DeepFace to recognize celebrity faces from uploaded photos.  
-🧠 Features:  
-- Real-time face recognition  
-- LFW dataset integration  
-- Flask backend with front-end UI  
-
----
-
 ## 📚 What I'm Learning
 
-- Frontend & Backend Integration (React + Django + ASP.net core)
-- AI & Machine Learning (Python, DeepFace, TensorFlow)
+- Frontend & Backend Integration (React + ASP.net core)
 - Data Engineering Concepts
 - Software Architecture & Deployment
 
