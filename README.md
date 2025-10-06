@@ -1,12 +1,15 @@
 # 👋 Hi, I'm Rotenda Ramugondo
 
 ### 💻 Final-Year Computer Science Student | Aspiring Software Engineer & AI Developer  
-🔭 Currently working on: Full Stack Web Apps (React + Django + PosgresSQL)  
-🌱 Learning: AI, Machine Learning, and Software Engineering  
 
-⚙️ Tools I use: Django, ASP.NET CORE,Git,Github,Qt,Vs Code
+🔭 Currently working on: Full Stack Web Apps (React + Django + PosgresSQL)  
+
+🌱 Learning: Software Engineering  & Data Engineering 
+
+⚙️ Tools I use: ASP.NET CORE, Git, Github, Qt, VsCode
 
 📍 Based in South Africa  
+
 📫 Contact: rotenda.ra@yahoo.com / rotenda.ra@gmail.com
 
 ---
@@ -44,8 +47,8 @@ AI-powered web app built using Flask and DeepFace to recognize celebrity faces f
 
 ## 🛠 Tech Stack
 
-Frontend:   HTML | CSS | JavaScript | React
-Backend:    ASP.Net core | Django
-Database:   PosgreSQL | MongoDB
+Frontend:   HTML | CSS | JavaScript | React | React native
+Backend:    ASP.Net core 
+Database:   PosgreSQL | MongoDB | MyQSL
 Languages:  Python | C# | JavaScript | C++
 Tools:      Git | GitHub | VS Code
