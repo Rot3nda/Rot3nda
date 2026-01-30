@@ -2,6 +2,7 @@
 
 ### Education 
 Bsc Computing graduate 
+
 Bsc Computer Science Hons student
 
 -----
