@@ -1,8 +1,7 @@
 👋 Hi, I'm Rotenda Ramugondo
 
 ### Education 
-Bsc Computing graduate 
-
+Bsc Computing graduate  
 Bsc Computer Science Hons student
 
 -----
@@ -40,8 +39,8 @@ Stack (React + Asp.net core + MySQL)
 
 ## 🛠 Tech Stack
 
-Frontend:   HTML | CSS | JavaScript | React | React native | Qt
+Frontend:   HTML | CSS | JavaScript | React | React native | Qt 
 Backend:    ASP.Net core 
-Database:   PosgreSQL | MongoDB | MyQSL
-Languages:  Python | C# | JavaScript | C++
-Tools:      Git | GitHub | VS Code
+Database:   PosgreSQL | MongoDB | MyQSL 
+Languages:  Python | C# | JavaScript | C++ 
+Tools:      Git | GitHub | VS Code 
