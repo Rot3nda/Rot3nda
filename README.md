@@ -1,43 +1,45 @@
-# 👋 Hi, I'm Rotenda Ramugondo
+👋 Hi, I'm Rotenda Ramugondo
 
-### 💻 Final-Year Computer Science Student | Aspiring Software Engineer/ Data Engineer
+### Education 
+Bsc Computing graduate 
+Bsc Computer Science Hons student
 
-🔭 Currently working on: Full Stack Web Apps (React + Asp.Net Core+ MySQL)  
+-----
 
-🌱 Learning: Software Engineering  & Data Engineering 
+### 💻 Aspiring Software Engineer / Data Engineer
 
-⚙️ Tools I use: ASP.NET CORE, Git, Github, Qt, VsCode
-
-📍 Based in South Africa  
+📍 Based Midrand in South Africa  
 
 📫 Contact: rotenda.ra@yahoo.com / rotenda.ra@gmail.com
 
----
+------
 
 ## 🚀 Projects
 
-### 🏠 R&R Homes – Real Estate Web App  
-A full-stack web application using HTML, CSS, React, Node.js, and MongoDB with user login, property listings, and saved properties.  
+#1 🏠 R&R Homes – Real Estate Web App [A full-stack web application]
+
+Stack (React + Asp.net core + MySQL)
+
 🧩 Features:  
 - User Authentication  
 - Real-time Property Search  
-- MongoDB Integration  
+- DB Integration  
 
 > Status: In Development  
 
----
+-----
 
 ## 📚 What I'm Learning
 
-- Frontend & Backend Integration (React + ASP.net core)
+- UI/UX Deisgn 
+- Frontend & Backend Integration (ReactJs + ASP.net core)
 - Data Engineering Concepts
-- Software Architecture & Deployment
 
----
+-----
 
 ## 🛠 Tech Stack
 
-Frontend:   HTML | CSS | JavaScript | React | React native
+Frontend:   HTML | CSS | JavaScript | React | React native | Qt
 Backend:    ASP.Net core 
 Database:   PosgreSQL | MongoDB | MyQSL
 Languages:  Python | C# | JavaScript | C++
